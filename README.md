@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jatin Undhad
-- 👀 I’m interested in Web
+- 👀 I’m interested in Web Development & Designing
 - 📫 Contact me on https://www.linkedin.com/in/jatinundhad/
 
 <!---
