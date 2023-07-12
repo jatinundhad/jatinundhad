@@ -19,13 +19,13 @@
 
 ## 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinundhad&layout=donut&theme=nord)](https://github.com/jatinundhad/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinundhad&layout=donut&theme=nord&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api?username=jatinundhad&theme=nord&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![Github stats](https://github-readme-stats.vercel.app/api?username=jatinundhad&theme=nord&hide_border=true&include_all_commits=false&count_private=true)<br/>
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=jatinundhad&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=jatinundhad&limit=5&theme=onedark&combine_all_yearly_contributions=true&hide_border=true)
 
 ---
 
