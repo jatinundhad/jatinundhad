@@ -1,6 +1,6 @@
 ![my banner](https://github.com/jatinundhad/jatinundhad/assets/104631814/73ba94d6-57d6-4573-9867-449eca366e41)
 
-<h4 align="center">Hi 👋, I'm Jatin Undhad</h4>
+<h3 align="center">Hi 👋, I'm Jatin Undhad</h3>
 <h2 align="center">I'm Web Developer <img width="25px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8"/> & Tech Enthusiast <img width="25px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png?v8"/></h2>
 
 # 💫 About Me:
