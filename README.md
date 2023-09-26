@@ -27,6 +27,9 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=jatinundhad&limit=5&theme=onedark&combine_all_yearly_contributions=true&hide_border=true)
 
+## badges:
+[![An image of @jatinundhad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jatinundhad)](https://holopin.io/@jatinundhad)
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=jatinundhad&icon=0&color=3)](https://visitcount.itsvg.in)
