@@ -28,7 +28,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=jatinundhad&limit=5&theme=onedark&combine_all_yearly_contributions=true&hide_border=true)
 
 ## Badges:
-[[![An image of @jatinundhad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jatinundhad)](https://holopin.io/@jatinundhad)](https://www.holopin.io/hacktoberfest2023/userbadge/cln0gcixg38460fldommuxy7g)
+[![An image of @jatinundhad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jatinundhad)]([https://holopin.io/@jatinundhad](https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2Fhf2023levels%2Flevel0-blue-0-0-0.webp&w=1920&q=75)https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2Fhf2023levels%2Flevel0-blue-0-0-0.webp&w=1920&q=75)
 
 ---
 
